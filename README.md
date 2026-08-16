@@ -40,4 +40,3 @@
 * 🔗 **[통계 자료 원문 보기](링크 자리)**
 
 ---
-*Developed by Gahui / KTH *
