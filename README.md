@@ -115,7 +115,7 @@
 
 포스터의 **젖산 1.5 M · 고액비 20 g/L · 70 °C** 조건은 아래 연구의 최적 조건을 그대로 채택한 것입니다. 본 아이디어는 이 조건에서 **환원제 자리(H₂O₂)만 술지게미 압착액으로 치환**합니다.
 
-* **Reference:** [Sustainable Recovery of Cathode Materials from Spent Lithium-Ion Batteries Using Lactic Acid Leaching System (2017)]
+#
 * **저자:** Li, L.; Fan, E.; Guan, Y.; et al. — *ACS Sustainable Chemistry & Engineering*, 5(6), 5224–5233
 * **핵심 요약:** 젖산 1.5 M, 고액비 20 g/L, 70 °C 조건에서 Li 97.7 % · Ni 98.2 % · Co 98.9 % · Mn 98.4 % 침출률을 달성한 연구입니다. 본 공정 조건의 직접 출처이며, 해당 연구의 환원제가 H₂O₂이므로 본 아이디어가 대체하려는 기준 조건에 해당합니다.
 * 🔗 **[논문 원문 / PDF 보기](https://pubs.acs.org/doi/10.1021/acssuschemeng.7b00571)**
@@ -173,7 +173,6 @@
 | ④-2 옥살산 침전 | 옥살산 투입 | Ni · Co · Mn 혼합 옥살산염 회수 |
 | ⑤ 여액 처리 | 탄산화 | Li 회수 |
 
-> **중화제 선택** — ④-1의 pH 조절에는 NaOH를 사용합니다. Ca 계열 중화제는 잔류 Ca²⁺가 후단 옥살산 침전에서 CaC₂O₄로 공침하여 산물을 오염시키므로 배제하였습니다.
 
 ---
 
