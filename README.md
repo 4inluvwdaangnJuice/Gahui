@@ -11,6 +11,7 @@
 > **포스터 상단:** "왜 지금 이 아이디어가 필요한가?"
 
 * **연간 폐배터리 발생량**
+<br>
 **보도 자료** [2030년 국내 폐배터리 약 10만개 이상 배출 예상, 한국경제인협회](https://web.fki.or.kr/kor/news/statement_detail.do?category=ST&bbs_id=00036369)
 **관련 기사** [2030년 사용후배터리 10만개 급증…정부, 재사용·재활용 본격 ‘시동’, 뉴스핌](https://www.newspim.com/news/view/20260520000434)	
 
@@ -20,13 +21,6 @@
 * **국내에서 상시 대량 발생하는 막걸리 부산물**
 **관련 기사** [1일 8톤 이상의 술지게미 폐기되어.., 한국농업신문](http://www.newsfarm.co.kr/news/articleView.html?idxno=61020)
 **	
-
-
-> **Park, Y.-H.; Kwon, M.-J.; Shin, D.-M.; Lee, S.-P.**
-> *Production of Functional Vinegar Enriched with γ-Aminobutyric Acid through
-> Serial Co-Fermentation of Lactic Acid and Acetic Acid Bacteria Using Rice Wine Lees*
-> **Applied Microbiology, 4**(3), 1203–1214 (2024)
-> https://doi.org/10.3390/applmicrobiol4030082
 
 | 성분 | 값 | 본 공정에서의 역할 |
 |---|---|---|
