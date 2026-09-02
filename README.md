@@ -15,9 +15,8 @@
 ### 1-2. 기존 습식 제련 공정의 부작용
 
 <details>
-  
 <summary><b>Gerold et al. (2022)</b> · 무기산 침출의 환경 부담</summary>
-
+  
 * **Reference:** Critical Evaluation of the Potential of Organic Acids for the Environmentally Friendly Recycling of Spent Lithium-Ion Batteries (2022)
 * **저자:** Gerold, E.; Schinnerl, C.; Antrekowitsch, H. — *Recycling*, 7(1), 4 (Open Access)
 * **핵심 요약:** 무기산 침출의 폐수 염 부하와 독성 가스 배출 지적, 대안으로 유기산 활용 침출 제안 및 평가
@@ -32,7 +31,6 @@
 * **관련 기사** — [막걸리 술지게미가 고급 동물사료로 변신, 한국농업신문](http://www.newsfarm.co.kr/news/articleView.html?idxno=61020) · 수도권 1일 8톤 이상 폐기 현황 포함
 
 <details>
-  
 <summary><b>Park et al. (2024)</b> · 주박 조성 — 환원당 51.22 g/L, 에탄올 7.26 %</summary>
 
 * **Reference:** Production of Functional Vinegar Enriched with γ-Aminobutyric Acid through Serial Co-Fermentation of Lactic Acid and Acetic Acid Bacteria Using Rice Wine Lees (2024)
@@ -70,7 +68,6 @@
 젖산 1.5 M · 고액비 20 g/L · 70 °C. 동일 조건에서 환원제 자리(H₂O₂)를 술지게미 압착액으로 치환
 
 <details>
-  
 <summary><b>Li et al. (2017)</b> · 침출 조건 출처</summary>
 
 * **Reference:** Sustainable Recovery of Cathode Materials from Spent Lithium-Ion Batteries Using Lactic Acid Leaching System (2017)
@@ -82,7 +79,6 @@
 </details>
 
 <details>
-  
 <summary><b>Meng et al. (2017)</b> · nₑ = 2 반응 경로</summary>
 
 * **Reference:** Use of Glucose as Reductant to Recover Co from Spent Lithium Ions Batteries (2017)
