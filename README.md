@@ -16,12 +16,12 @@
 
 <details>
 <summary><b>Gerold et al. (2022)</b> · 무기산 침출의 환경 부담</summary>
-
-* **Reference:** Critical Evaluation of the Potential of Organic Acids for the Environmentally Friendly Recycling of Spent Lithium-Ion Batteries (2022)
-* **저자:** Gerold, E.; Schinnerl, C.; Antrekowitsch, H. — *Recycling*, 7(1), 4 (Open Access)
-* **핵심 요약:** 무기산 침출의 폐수 염 부하와 독성 가스 배출 지적, 대안으로 유기산 활용 침출 제안 및 평가
-* 🔗 **[논문 원문 / PDF 보기](https://www.mdpi.com/2313-4321/7/1/4)**
-
+<ul>
+  <li><b>Reference:</b> Critical Evaluation of the Potential of Organic Acids for the Environmentally Friendly Recycling of Spent Lithium-Ion Batteries (2022)</li>
+  <li><b>저자:</b> Gerold, E.; Schinnerl, C.; Antrekowitsch, H. — <i>Recycling</i>, 7(1), 4 (Open Access)</li>
+  <li><b>핵심 요약:</b> 무기산 침출의 폐수 염 부하와 독성 가스 배출 지적, 대안으로 유기산 활용 침출 제안 및 평가</li>
+  <li>🔗 <b><a href="https://www.mdpi.com/2313-4321/7/1/4">논문 원문 / PDF 보기</a></b></li>
+</ul>
 </details>
 
 ### 1-3. 대체 원료로서의 막걸리 술지게미
@@ -32,13 +32,13 @@
 
 <details>
 <summary><b>Park et al. (2024)</b> · 주박 조성 — 환원당 51.22 g/L, 에탄올 7.26 %</summary>
-
-* **Reference:** Production of Functional Vinegar Enriched with γ-Aminobutyric Acid through Serial Co-Fermentation of Lactic Acid and Acetic Acid Bacteria Using Rice Wine Lees (2024)
-* **저자:** Park, Y.-H.; Kwon, M.-J.; Shin, D.-M.; Lee, S.-P. — *Applied Microbiology*, 4(3), 1203–1214
-* **핵심 요약:** 막걸리 주박 기반 기능성 식초 제조 연구. 원물 주박 성분 분석값이 포스터 설계 근거 그래프의 x축 기준점으로 활용됨
-* **인용 범위:** 원물 주박 조성값만 인용. 논문 내 젖산·아세트산은 유산균 접종 발효 후 측정값이므로 전자 수지에서 제외
-* 🔗 **[논문 원문 / PDF 보기](https://doi.org/10.3390/applmicrobiol4030082)**
-
+<ul>
+  <li><b>Reference:</b> Production of Functional Vinegar Enriched with γ-Aminobutyric Acid through Serial Co-Fermentation of Lactic Acid and Acetic Acid Bacteria Using Rice Wine Lees (2024)</li>
+  <li><b>저자:</b> Park, Y.-H.; Kwon, M.-J.; Shin, D.-M.; Lee, S.-P. — <i>Applied Microbiology</i>, 4(3), 1203–1214</li>
+  <li><b>핵심 요약:</b> 막걸리 주박 기반 기능성 식초 제조 연구. 원물 주박 성분 분석값이 포스터 설계 근거 그래프의 x축 기준점으로 활용됨</li>
+  <li><b>인용 범위:</b> 원물 주박 조성값만 인용. 논문 내 젖산·아세트산은 유산균 접종 발효 후 측정값이므로 전자 수지에서 제외</li>
+  <li>🔗 <b><a href="https://doi.org/10.3390/applmicrobiol4030082">논문 원문 / PDF 보기</a></b></li>
+</ul>
 </details>
 
 ---
@@ -69,23 +69,23 @@
 
 <details>
 <summary><b>Li et al. (2017)</b> · 침출 조건 출처</summary>
-
-* **Reference:** Sustainable Recovery of Cathode Materials from Spent Lithium-Ion Batteries Using Lactic Acid Leaching System (2017)
-* **저자:** Li, L.; Fan, E.; Guan, Y.; et al. — *ACS Sustainable Chemistry & Engineering*, 5(6), 5224–5233
-* **핵심 요약:** 젖산 1.5 M, 고액비 20 g/L, 70 °C, H₂O₂ 0.5 vol %, 20분 조건에서 Li 97.7 % · Ni 98.2 % · Co 98.9 % · Mn 98.4 % 침출. 환원제를 H₂O₂로 사용하여 본 아이디어의 대체 기준 조건에 해당
-* **인용 범위:** 침출 조건값만 채택. 대상은 NCM111 양극 스크랩이므로 NCM811 요구 전자량은 2-4에서 별도 산출
-* 🔗 **[논문 원문 / PDF 보기](https://pubs.acs.org/doi/10.1021/acssuschemeng.7b00571)**
-
+<ul>
+  <li><b>Reference:</b> Sustainable Recovery of Cathode Materials from Spent Lithium-Ion Batteries Using Lactic Acid Leaching System (2017)</li>
+  <li><b>저자:</b> Li, L.; Fan, E.; Guan, Y.; et al. — <i>ACS Sustainable Chemistry & Engineering</i>, 5(6), 5224–5233</li>
+  <li><b>핵심 요약:</b> 젖산 1.5 M, 고액비 20 g/L, 70 °C, H₂O₂ 0.5 vol %, 20분 조건에서 Li 97.7 % · Ni 98.2 % · Co 98.9 % · Mn 98.4 % 침출. 환원제를 H₂O₂로 사용하여 본 아이디어의 대체 기준 조건에 해당</li>
+  <li><b>인용 범위:</b> 침출 조건값만 채택. 대상은 NCM111 양극 스크랩이므로 NCM811 요구 전자량은 2-4에서 별도 산출</li>
+  <li>🔗 <b><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.7b00571">논문 원문 / PDF 보기</a></b></li>
+</ul>
 </details>
 
 <details>
 <summary><b>Meng et al. (2017)</b> · nₑ = 2 반응 경로</summary>
-
-* **Reference:** Use of Glucose as Reductant to Recover Co from Spent Lithium Ions Batteries (2017)
-* **저자:** Meng, Q.; Zhang, Y.; Dong, P. — *Waste Management*, 64, 214–218
-* **핵심 요약:** 인산 1.5 M + 포도당 0.02 M, 80 °C에서 Co 약 98 % 침출. 침출 중 포도당이 모노카복실산으로 산화하며 Co(III)를 Co(II)로 환원하는 경로 제시
-* 🔗 **[논문 원문 / PDF 보기](https://doi.org/10.1016/j.wasman.2017.03.017)**
-
+<ul>
+  <li><b>Reference:</b> Use of Glucose as Reductant to Recover Co from Spent Lithium Ions Batteries (2017)</li>
+  <li><b>저자:</b> Meng, Q.; Zhang, Y.; Dong, P. — <i>Waste Management</i>, 64, 214–218</li>
+  <li><b>핵심 요약:</b> 인산 1.5 M + 포도당 0.02 M, 80 °C에서 Co 약 98 % 침출. 침출 중 포도당이 모노카복실산으로 산화하며 Co(III)를 Co(II)로 환원하는 경로 제시</li>
+  <li>🔗 <b><a href="https://doi.org/10.1016/j.wasman.2017.03.017">논문 원문 / PDF 보기</a></b></li>
+</ul>
 </details>
 
 > **안전 설계** — 70 °C에서 에탄올 기상부 농도가 폭발 범위 진입 가능. 밀폐 반응기 · 환류 냉각 · N₂ 봉입 적용
