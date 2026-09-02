@@ -16,7 +16,7 @@
 
 <details>
 <summary><b>Gerold et al. (2022)</b> · 무기산 침출의 환경 부담</summary>
-  
+
 * **Reference:** Critical Evaluation of the Potential of Organic Acids for the Environmentally Friendly Recycling of Spent Lithium-Ion Batteries (2022)
 * **저자:** Gerold, E.; Schinnerl, C.; Antrekowitsch, H. — *Recycling*, 7(1), 4 (Open Access)
 * **핵심 요약:** 무기산 침출의 폐수 염 부하와 독성 가스 배출 지적, 대안으로 유기산 활용 침출 제안 및 평가
