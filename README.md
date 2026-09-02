@@ -1,10 +1,12 @@
-# 막걸리 술지게미를 활용한 폐배터리 환원 침출
+# 🍶막걸리 술지게미를 활용한 폐배터리 환원 침출🔋
 
-포스터 참고 문헌
+**환원제 과산화수소를 술지게미 압착액으로 대체하는 습식 제련 공정**
+
+포스터 참고 문헌 및 부록 — 근거 자료와 계산 과정
 
 ---
 
-## 1️⃣ 필요성 및 추진목적
+## 🔍 필요성 및 추진목적
 
 ### 1-1. 폐배터리 발생량
 
@@ -15,7 +17,7 @@
 ### 1-2. 기존 습식 제련 공정의 부작용
 
 <details>
-<summary><b>Gerold et al. (2022)</b> · 무기산 침출의 환경 부담</summary>
+<summary><b>Gerold et al. (2022)</b> · 무기산 활용 침출의 환경 부담</summary>
 <ul>
   <li><b>Reference:</b> Critical Evaluation of the Potential of Organic Acids for the Environmentally Friendly Recycling of Spent Lithium-Ion Batteries (2022)</li>
   <li><b>저자:</b> Gerold, E.; Schinnerl, C.; Antrekowitsch, H. — <i>Recycling</i>, 7(1), 4 (Open Access)</li>
@@ -43,7 +45,7 @@
 
 ---
 
-## 2️⃣ 아이디어 개념과 내용
+## ⚙️ 아이디어 개념과 내용
 
 ### 2-1. 공정 구성
 
@@ -71,8 +73,8 @@
 <summary><b>Li et al. (2017)</b> · 침출 조건 출처</summary>
 <ul>
   <li><b>Reference:</b> Sustainable Recovery of Cathode Materials from Spent Lithium-Ion Batteries Using Lactic Acid Leaching System (2017)</li>
-  <li><b>저자:</b> Li, L.; Fan, E.; Guan, Y.; et al. — <i>ACS Sustainable Chemistry & Engineering</i>, 5(6), 5224–5233</li>
-  <li><b>핵심 요약:</b> 젖산 1.5 M, 고액비 20 g/L, 70 °C, H₂O₂ 0.5 vol %, 20분 조건에서 Li 97.7 % · Ni 98.2 % · Co 98.9 % · Mn 98.4 % 침출. 환원제를 H₂O₂로 사용하여 본 아이디어의 대체 기준 조건에 해당</li>
+  <li><b>저자:</b> Li, L.; Fan, E.; Guan, Y.; et al. — <i>ACS Sustainable Chemistry &amp Engineering</i>, 5(6), 5224–5233</li>
+  <li><b>핵심 요약:</b> 젖산 1.5 M, 고액비 20 g/L, 70 °C, H₂O₂ 0.5 vol %, 20분 조건에서 Li 97.7 % · Ni 98.2 % · Co 98.9 % · Mn 98.4 % 침출. 환원제를 H₂O₂로 사용하여, 본 아이디어의 대체 기준 조건에 해당</li>
   <li><b>인용 범위:</b> 침출 조건값만 채택. 대상은 NCM111 양극 스크랩이므로 NCM811 요구 전자량은 2-4에서 별도 산출</li>
   <li>🔗 <b><a href="https://pubs.acs.org/doi/10.1021/acssuschemeng.7b00571">논문 원문 / PDF 보기</a></b></li>
 </ul>
@@ -119,7 +121,7 @@ NCM811 전이금속 평균 산화수 +3 → 산 용해성 +2로 환원 시 화�
 
 ---
 
-## 3️⃣ 활용방안 및 기대효과
+## 📈 활용방안 및 기대효과
 
 ### 3-1. 법적 활용 가능성
 
@@ -127,13 +129,8 @@ NCM811 전이금속 평균 산화수 +3 → 산 용해성 +2로 환원 시 화�
 
 * **관련 기사** — [술 빚고 남은 10%, 어떻게 써야 할까, 농민신문](https://www.nongmin.com/article/20250630500448) · 식약처 유권해석 및 폐기 비용 부담 포함
 
-### 3-2. 취급 안정성
 
-과산화수소는 농도 36 % 이상일 때 「위험물안전관리법」상 제6류 산화성 액체로 분류. 술지게미는 위험물 비해당 식품 부산물
-
-* **법령** — [위험물안전관리법 시행령 별표 1, 국가법령정보센터](https://www.law.go.kr/)
-
-### 3-3. 원료 조달 구조
+### 3-2. 원료 조달 구조
 
 양조장은 폐기물관리법·주세법에 따라 술지게미 폐기 비용 부담. 상용 환원제를 처리 비용이 발생하던 부산물로 대체
 
